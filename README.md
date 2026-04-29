@@ -69,7 +69,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 - **Business Impact:**  
   Delivered actionable insights that can improve efficiency, optimize performance, and support data-driven decision-making  
 
-- 🔗 [View Project](./project-2)
+- 🔗 [View Project] (https://github.com/emirosa715-cmyk/project2.git)
 
 ---
 
