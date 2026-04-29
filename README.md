@@ -21,7 +21,6 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 
 ---
 
-## 📁 Projects
 
 ## 📁 Projects
 
