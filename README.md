@@ -1,7 +1,7 @@
 # data-analytics-portfolio
-# 📊 Emilse Rosa – Data Analytics Portfolio
+# Emilse Rosa – Data Analytics Portfolio
 
-## 👋 About Me
+## About Me
 Hi, I’m Emilse Rosa.
 
 I’m transitioning into a Data Analyst role with a background in education and leadership. I specialize in turning data into actionable insights that support better decision-making.
@@ -12,7 +12,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 
 ---
 
-## 🛠 Skills
+##  Skills
 - SQL  
 - Excel / Google Sheets  
 - Python (Pandas)  
@@ -22,11 +22,11 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 ---
 
 
-## 📁 Projects
+##  Projects
 
 ---
 
-### 📌 Project 1: TikTok Claims Classification – Data Inspection
+###  Project 1: TikTok Claims Classification – Data Inspection
 
 - **Tools:** Python (Pandas), SQL, Jupyter Notebook  
 - **Summary:** Conducted exploratory data analysis on a TikTok dataset (~1,000+ records) to prepare it for machine learning classification. Evaluated dataset structure, feature relevance, and overall data quality using Python and SQL.  
@@ -49,7 +49,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 
 ---
 
-### 📌 Project 2: Automatidata Data Analysis
+###  Project 2: Automatidata Data Analysis
 
 - **Tools:** Python, SQL, Data Visualization  
 - **Summary:** Analyzed structured business data (~1,500+ records) to identify trends and generate insights supporting operational and strategic decision-making.  
@@ -68,11 +68,11 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 - **Business Impact:**  
   Delivered actionable insights that can improve efficiency, optimize performance, and support data-driven decision-making  
 
-- 🔗 [View Project] (https://github.com/emirosa715-cmyk/project2.git)
+- 🔗 [View Project](https://github.com/emirosa715-cmyk/project2.git)
 
 ---
 
-### 📌 Project 3: Data Cleaning and Inspection Project
+###  Project 3: Data Cleaning and Inspection Project
 
 - **Tools:** Python (Pandas), SQL, Excel  
 - **Summary:** Prepared raw data (~1,000+ rows) for analysis by inspecting dataset structure, identifying key variables, and resolving data quality issues using Python and SQL.  
@@ -95,7 +95,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 
 ---
 
-## 📌  SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 - SELECT, WHERE, ORDER BY  
 - GROUP BY with COUNT and AVG  
 - Filtering NULL values  
