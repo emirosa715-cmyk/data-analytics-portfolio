@@ -46,7 +46,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 - **Business Impact:**  
   Improved data reliability and prepared a clean dataset foundation, increasing the likelihood of accurate and effective machine learning model performance  
 
-- 🔗 [View Project](./project-1)
+- 🔗 [View Project](https://github.com/emirosa715-cmyk/project-1.git)
 
 ---
 
