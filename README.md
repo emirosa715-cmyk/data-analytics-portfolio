@@ -92,7 +92,7 @@ I’m currently seeking remote opportunities where I can apply my analytical ski
 - **Business Impact:**  
   Ensured accurate and consistent data, enabling more reliable analysis and better-informed decision-making  
 
-- 🔗 [View Project](./project-3) Project 3_ Data Cleaning and Preparation.pdf
+- 🔗 [View Project](./Project 3_ Data Cleaning and Preparation.pdf) 
 
 ---
 
